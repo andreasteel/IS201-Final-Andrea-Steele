@@ -28,6 +28,23 @@ a:visited {color: black;}
     font-size: 18px;
     text-align: center right;
 }
+.aboutmepar {
+    font-size: 20;
+    color: black;
+}
+.center {
+    left: 20px;
+}
+.homepar {
+    color: white;
+    font-size: 18px;
+    text-align: left;
+}
+.par {
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
 
 .aboutme {
     font-style: italic;
